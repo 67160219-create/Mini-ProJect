@@ -1,3 +1,3 @@
 # Mini-ProJect
-หน้า DashBoard 
+หน้า Dashboard 
 # https://miniprojectlayera.lovable.app/
